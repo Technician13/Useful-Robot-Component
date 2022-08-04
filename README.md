@@ -4,9 +4,15 @@
 * These components will be sorted alphabetically, all of them can be found in my github.
 * Welcome to communicate with me．　　　　　
 ## [Communication-USB-HID](https://github.com/Technician13/Communication-USB-HID)
-* communication scheme based on USB HID.     
+* communication scheme based on USB HID.         
+
+- [x] tested      
+- [ ] deployed
+
 ## [Read-YAML](https://github.com/Technician13/Read-YAML)    
 * YAML file reading scheme based on C++.
 
+- [x] tested      
+- [ ] deployed
 
-
+# Loading   :hourglass_flowing_sand:   
