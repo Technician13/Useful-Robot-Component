@@ -7,7 +7,7 @@
 * communication scheme based on USB HID.         
 
 - [x] tested      
-- [ ] deployed
+- [x] deployed
 
 ## [Read-YAML](https://github.com/Technician13/Read-YAML)    
 * YAML file reading scheme based on C++.
