@@ -9,6 +9,12 @@
 - [x] tested      
 - [x] deployed
 
+## [DLQR](https://github.com/Technician13/DLQR)    
+* discrete LQR controller based on C++.
+
+- [x] tested      
+- [ ] deployed
+
 ## [Kalman-Filter](https://github.com/Technician13/Kalman-Filter)    
 * Kalman filter based on C++.
 
@@ -17,12 +23,6 @@
 
 ## [Read-YAML](https://github.com/Technician13/Read-YAML)    
 * YAML file reading scheme based on C++.
-
-- [x] tested      
-- [ ] deployed
-
-## [DLQR](https://github.com/Technician13/DLQR)    
-* discrete LQR controller based on C++.
 
 - [x] tested      
 - [ ] deployed
