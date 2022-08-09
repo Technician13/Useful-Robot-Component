@@ -21,4 +21,10 @@
 - [x] tested      
 - [ ] deployed
 
+## [DLQR](https://github.com/Technician13/DLQR)    
+* discrete LQR controller based on C++.
+
+- [x] tested      
+- [ ] deployed
+
 # Loading   :hourglass_flowing_sand:   
