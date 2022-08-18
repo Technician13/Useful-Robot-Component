@@ -13,6 +13,12 @@
 * communication scheme based on USB HID.         
 
 - [x] tested      
+- [x] deployed      
+
+## [Cubic-Spline](https://github.com/Technician13/Cubic-Spline)
+* path planning mathod based on cubic spline.         
+
+- [x] tested      
 - [x] deployed
 
 ## [DLQR](https://github.com/Technician13/DLQR)    
