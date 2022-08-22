@@ -31,6 +31,12 @@
 * Kalman filter based on C++.
 
 - [x] tested      
+- [ ] deployed    
+
+## [MPC](https://github.com/Technician13/MPC)    
+* linear MPC based on OSQP.
+
+- [x] tested      
 - [ ] deployed
 
 ## [Read-YAML](https://github.com/Technician13/Read-YAML)    
